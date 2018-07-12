@@ -4,7 +4,6 @@ SpacesBeforeTrailingComments: 1
 SpaceAfterControlStatementKeyword: false
 AccessModifierOffset: -4
 BreakConstructorInitializersBeforeComma: true
-PointerBindsToType: false
 Standard: Cpp11
 ColumnLimit: 160
 AlwaysBreakTemplateDeclarations: true
@@ -13,5 +12,6 @@ AllowShortLoopsOnASingleLine: false
 BreakBeforeBraces: Allman
 BreakBeforeBinaryOperators: false
 MaxEmptyLinesToKeep: 1
-PointerBindsToType: false
 NamespaceIndentation: Inner
+DerivePointerBinding: false
+PointerBindsToType: false
