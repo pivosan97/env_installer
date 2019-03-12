@@ -50,4 +50,4 @@ let g:ycm_confirm_extra_conf = 0
 
 " Vertical line to see where to wrap lines
 set colorcolumn=121                                                                                                      
-highlight ColorColumn ctermbg=grey guibg=grey
+highlight ColorColumn ctermbg=darkgrey guibg=darkgrey
