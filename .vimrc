@@ -47,3 +47,7 @@ let g:ycm_confirm_extra_conf = 0
  nnoremap <M-Right> :YcmCompleter GoToDefinition<CR>
  nnoremap <M-Up> :YcmCompleter GoTo<CR>
  nnoremap <c-h> :AV<CR>
+
+" Vertical line to see where to wrap lines
+set colorcolumn=121                                                                                                      
+highlight ColorColumn ctermbg=grey guibg=grey
