@@ -18,7 +18,7 @@ BreakBeforeBinaryOperators: NonAssignment
 BreakBeforeBraces: Allman
 BreakConstructorInitializersBeforeComma: 'true'
 BreakStringLiterals: 'true'
-ColumnLimit: '160'
+ColumnLimit: '120'
 Cpp11BracedListStyle: 'true'
 DerivePointerAlignment: 'false'
 IndentCaseLabels: 'true'
